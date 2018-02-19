@@ -1,0 +1,5 @@
+package main;
+
+public interface HelloWorld_Interface {
+
+}

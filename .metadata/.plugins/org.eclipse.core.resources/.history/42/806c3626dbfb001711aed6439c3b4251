@@ -1,0 +1,10 @@
+package main;
+import gradingTools.comp410f16.assignment0.testcases.Assignment0Suite;
+public class RunTests {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Assignment0Suite.main(args);
+	}
+
+}
